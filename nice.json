@@ -1,0 +1,416 @@
+{
+    "1": {
+        "word": "amant",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "present active indicative 3rd person plural"
+    },
+    "2": {
+        "word": "amabo",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "future active indicative 1st person singular"
+    },
+    "3": {
+        "word": "amare",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "present passive indicative 2nd person singular"
+    },
+    "4": {
+        "word": "ament",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "present active subjunctive 3rd person plural"
+    },
+    "5": {
+        "word": "amere",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "present passive subjunctive 2nd person singular"
+    },
+    "6": {
+        "word": "amate",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "present active imperative 2nd person plural"
+    },
+    "7": {
+        "word": "amato",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "future active imperative 2nd person singular"
+    },
+    "8": {
+        "word": "amari",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "present passive infinitive"
+    },
+    "9": {
+        "word": "amavi",
+        "full": "amo, amare, amavi, amatum",
+        "translation": "to love, like (amabo te: please (I will love you))",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "10": {
+        "word": "debeo",
+        "full": "debeo, debere, debui, debitum",
+        "translation": "to owe; ought, must",
+        "type": "present active indicative 1st person singular"
+    },
+    "11": {
+        "word": "debes",
+        "full": "debeo, debere, debui, debitum",
+        "translation": "to owe; ought, must",
+        "type": "present active indicative 2nd person singular"
+    },
+    "12": {
+        "word": "debet",
+        "full": "debeo, debere, debui, debitum",
+        "translation": "to owe; ought, must",
+        "type": "present active indicative 3rd person singular"
+    },
+    "13": {
+        "word": "debui",
+        "full": "debeo, debere, debui, debitum",
+        "translation": "to owe; ought, must",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "14": {
+        "word": "damus",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present active indicative 1st person plural"
+    },
+    "15": {
+        "word": "datis",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present active indicative 2nd person plural"
+    },
+    "16": {
+        "word": "dabam",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect active indicative 1st person singular"
+    },
+    "17": {
+        "word": "dabas",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect active indicative 2nd person singular"
+    },
+    "18": {
+        "word": "dabat",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect active indicative 3rd person singular"
+    },
+    "19": {
+        "word": "dabis",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "future active indicative 2nd person singular"
+    },
+    "20": {
+        "word": "dabit",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "future active indicative 3rd person singular"
+    },
+    "21": {
+        "word": "daris",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present passive indicative 2nd person singular"
+    },
+    "22": {
+        "word": "datur",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present passive indicative 3rd person singular"
+    },
+    "23": {
+        "word": "damur",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present passive indicative 1st person plural"
+    },
+    "24": {
+        "word": "dabar",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect passive indicative 1st person singular"
+    },
+    "25": {
+        "word": "dabor",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "future passive indicative 1st person singular"
+    },
+    "26": {
+        "word": "demus",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present active subjunctive 1st person plural"
+    },
+    "27": {
+        "word": "detis",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present active subjunctive 2nd person plural"
+    },
+    "28": {
+        "word": "darem",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect active subjunctive 1st person singular"
+    },
+    "29": {
+        "word": "dares",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect active subjunctive 2nd person singular"
+    },
+    "30": {
+        "word": "daret",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect active subjunctive 3rd person singular"
+    },
+    "31": {
+        "word": "deris",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present passive subjunctive 2nd person singular"
+    },
+    "32": {
+        "word": "detur",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present passive subjunctive 3rd person singular"
+    },
+    "33": {
+        "word": "demur",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "present passive subjunctive 1st person plural"
+    },
+    "34": {
+        "word": "darer",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "imperfect passive subjunctive 1st person singular"
+    },
+    "35": {
+        "word": "danto",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "future active imperative 3rd person plural"
+    },
+    "36": {
+        "word": "dator",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "future passive imperative 2nd person singular"
+    },
+    "37": {
+        "word": "dedit",
+        "full": "do, dare, dedi, datum",
+        "translation": "to give, offer",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "38": {
+        "word": "erras",
+        "full": "erro, errare, erravi, erratum",
+        "translation": "to wander, err, go astray, be mistaken",
+        "type": "present active indicative 2nd person singular"
+    },
+    "39": {
+        "word": "errat",
+        "full": "erro, errare, erravi, erratum",
+        "translation": "to wander, err, go astray, be mistaken",
+        "type": "present active indicative 3rd person singular"
+    },
+    "40": {
+        "word": "error",
+        "full": "erro, errare, erravi, erratum",
+        "translation": "to wander, err, go astray, be mistaken",
+        "type": "present passive indicative 1st person singular"
+    },
+    "41": {
+        "word": "errem",
+        "full": "erro, errare, erravi, erratum",
+        "translation": "to wander, err, go astray, be mistaken",
+        "type": "present active subjunctive 1st person singular"
+    },
+    "42": {
+        "word": "erres",
+        "full": "erro, errare, erravi, erratum",
+        "translation": "to wander, err, go astray, be mistaken",
+        "type": "present active subjunctive 2nd person singular"
+    },
+    "43": {
+        "word": "erret",
+        "full": "erro, errare, erravi, erratum",
+        "translation": "to wander, err, go astray, be mistaken",
+        "type": "present active subjunctive 3rd person singular"
+    },
+    "44": {
+        "word": "errer",
+        "full": "erro, errare, erravi, erratum",
+        "translation": "to wander, err, go astray, be mistaken",
+        "type": "present passive subjunctive 1st person singular"
+    },
+    "45": {
+        "word": "laudo",
+        "full": "laudo, laudare, laudavi, laudatum",
+        "translation": "to praise",
+        "type": "present active indicative 1st person singular"
+    },
+    "46": {
+        "word": "lauda",
+        "full": "laudo, laudare, laudavi, laudatum",
+        "translation": "to praise",
+        "type": "present active imperative 2nd person singular"
+    },
+    "47": {
+        "word": "moneo",
+        "full": "moneo, monere, monui, monitum",
+        "translation": "to remind, advise, warn",
+        "type": "present active indicative 1st person singular"
+    },
+    "48": {
+        "word": "mones",
+        "full": "moneo, monere, monui, monitum",
+        "translation": "to remind, advise, warn",
+        "type": "present active indicative 2nd person singular"
+    },
+    "49": {
+        "word": "monet",
+        "full": "moneo, monere, monui, monitum",
+        "translation": "to remind, advise, warn",
+        "type": "present active indicative 3rd person singular"
+    },
+    "50": {
+        "word": "monui",
+        "full": "moneo, monere, monui, monitum",
+        "translation": "to remind, advise, warn",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "51": {
+        "word": "salve",
+        "full": "salveo, salvere, -, -",
+        "translation": "to be well, be in good health (salve and salvete: hello)",
+        "type": "present active imperative 2nd person singular"
+    },
+    "52": {
+        "word": "servo",
+        "full": "servo, servare, servavi, servatum",
+        "translation": "to preserve, save, keep, guard",
+        "type": "present active indicative 1st person singular"
+    },
+    "53": {
+        "word": "serva",
+        "full": "servo, servare, servavi, servatum",
+        "translation": "to preserve, save, keep, guard",
+        "type": "present active imperative 2nd person singular"
+    },
+    "54": {
+        "word": "terre",
+        "full": "terreo, terrere, terrui, territum",
+        "translation": "to frighten, terrify",
+        "type": "present active imperative 2nd person singular"
+    },
+    "55": {
+        "word": "valeo",
+        "full": "valeo, valere, valui, valiturum",
+        "translation": "to be strong, have power; be well (vale and valete: good-bye, farewell)",
+        "type": "present active indicative 1st person singular"
+    },
+    "56": {
+        "word": "vales",
+        "full": "valeo, valere, valui, valiturum",
+        "translation": "to be strong, have power; be well (vale and valete: good-bye, farewell)",
+        "type": "present active indicative 2nd person singular"
+    },
+    "57": {
+        "word": "valet",
+        "full": "valeo, valere, valui, valiturum",
+        "translation": "to be strong, have power; be well (vale and valete: good-bye, farewell)",
+        "type": "present active indicative 3rd person singular"
+    },
+    "58": {
+        "word": "valui",
+        "full": "valeo, valere, valui, valiturum",
+        "translation": "to be strong, have power; be well (vale and valete: good-bye, farewell)",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "59": {
+        "word": "video",
+        "full": "video, videre, vidi, visum",
+        "translation": "to see; observe, understand",
+        "type": "present active indicative 1st person singular"
+    },
+    "60": {
+        "word": "vides",
+        "full": "video, videre, vidi, visum",
+        "translation": "to see; observe, understand",
+        "type": "present active indicative 2nd person singular"
+    },
+    "61": {
+        "word": "videt",
+        "full": "video, videre, vidi, visum",
+        "translation": "to see; observe, understand",
+        "type": "present active indicative 3rd person singular"
+    },
+    "62": {
+        "word": "vidit",
+        "full": "video, videre, vidi, visum",
+        "translation": "to see; observe, understand",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "63": {
+        "word": "vocas",
+        "full": "voco, vocare, vocavi, vocatum",
+        "translation": "to call, summon",
+        "type": "present active indicative 2nd person singular"
+    },
+    "64": {
+        "word": "vocat",
+        "full": "voco, vocare, vocavi, vocatum",
+        "translation": "to call, summon",
+        "type": "present active indicative 3rd person singular"
+    },
+    "65": {
+        "word": "vocor",
+        "full": "voco, vocare, vocavi, vocatum",
+        "translation": "to call, summon",
+        "type": "present passive indicative 1st person singular"
+    },
+    "66": {
+        "word": "vocem",
+        "full": "voco, vocare, vocavi, vocatum",
+        "translation": "to call, summon",
+        "type": "present active subjunctive 1st person singular"
+    },
+    "67": {
+        "word": "voces",
+        "full": "voco, vocare, vocavi, vocatum",
+        "translation": "to call, summon",
+        "type": "present active subjunctive 2nd person singular"
+    },
+    "68": {
+        "word": "vocet",
+        "full": "voco, vocare, vocavi, vocatum",
+        "translation": "to call, summon",
+        "type": "present active subjunctive 3rd person singular"
+    },
+    "69": {
+        "word": "vocer",
+        "full": "voco, vocare, vocavi, vocatum",
+        "translation": "to call, summon",
+        "type": "present passive subjunctive 1st person singular"
+    }
+}
